@@ -1,13 +1,9 @@
 package obuzye;
 
-public abstract class Character {
-  String name;
-  int hp;
-
+public interface Character {
   //逃げる
-  public void run(){
-	  System.out.println(this.name + "は逃げ出した");
-  }
+   void run();
+
   //戦う
-  public abstract void attack(Matango m);
+   void attack();
 }
