@@ -5,7 +5,7 @@ package obuzye;
 public class Tennokoe {
    public static void main(String[]args) {
 	  //１．勇者を生成
-	   Hero h1 =new Hero("ミナト");
+	   Hero h1 =new Hero("ヨシヒコ");
 	   Hero h2 = new Hero();
 	   King k = new King();
 
