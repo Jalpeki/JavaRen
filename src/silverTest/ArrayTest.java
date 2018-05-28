@@ -8,9 +8,7 @@ public class ArrayTest {
 		month[1] = "April";
 		month[2] = "May";
 		int count = month.length;
-		System.out.println(count
-
-				);
+		System.out.println(count);
 	}
 
 }
