@@ -6,6 +6,7 @@ public class HelloWorld {
 	   System.out.println("こんにちわ　世界");
 	   System.out.println("24 + 24 の計算をします");
 	   System.out.println("24+24");
+	   System.out.println("24+24");
    }
-   
+
 }
